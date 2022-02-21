@@ -11,6 +11,6 @@ public class App
         System.out.println( "Hello World mallikan !" );
     }
     void m1() {
-    	System.out.println("mallika");
+    	System.out.println("mallika+kamma");
     }
 }
