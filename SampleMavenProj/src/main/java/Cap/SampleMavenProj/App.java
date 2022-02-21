@@ -10,4 +10,7 @@ public class App
     {
         System.out.println( "Hello World mallika !" );
     }
+    void m1() {
+    	System.out.println("mallika");
+    }
 }
